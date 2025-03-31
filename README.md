@@ -1,1 +1,1 @@
-Quick sponsor rotator overlay for OBS streaming
+sponsor rotator overlay for OBS streaming
